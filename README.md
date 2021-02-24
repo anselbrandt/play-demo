@@ -21,3 +21,7 @@ Assets in the `./public` folder will be located at:
 ex.
 
 `http://localhost:9000/assets/mountbaker.jpg`
+
+### Play Docs
+
+[Main concepts for Scala](https://www.playframework.com/documentation/2.8.x/ScalaHome)
